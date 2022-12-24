@@ -1,0 +1,49 @@
+* {
+    margin: 30px;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.dropdown {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin: 40px;
+    padding: 10px;
+    font-size: medium;
+    background-color: black;
+
+}
+
+.result{
+    font-size:25px;
+    box-sizing: border-box;
+    color: white;
+    position: absolute;
+    width: 536px;
+    height: 59px;
+    left: 58px;
+    top: 306px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    justify-content: space-evenly;
+
+}
+.button{
+
+position: absolute;
+width: 226px;
+height: 58px;
+left: 58px;
+top: 583px;
+background: #FFFFFF;
+}
+
+
